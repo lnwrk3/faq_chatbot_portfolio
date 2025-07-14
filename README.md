@@ -24,7 +24,7 @@
 ---
 
 ### 🔸 実際の質問＆回答例
-<img src="images/sample_qa.png" width="720">
+<img src="images/sample_qa.png?v=2" width="720">
 
 > 「有給休暇の申請方法は？」といった自然文でも正確に回答できます。関連マニュアルへのリンクも自動で出力されます。
 
