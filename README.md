@@ -14,6 +14,36 @@
 
 ---
 
+## 💻 UIデモ（画面イメージ）
+
+### 🔸 起動後の初期画面
+<img src="images/ui_demo.png" width="720">
+
+> 起動すると即使えるシンプルなチャット画面が表示されます。Streamlitベースで、社内PCでも軽量に動作します。
+
+---
+
+### 🔸 実際の質問＆回答例
+<img src="images/sample_qa.png" width="720">
+
+> 「有給休暇の申請方法は？」といった自然文でも正確に回答できます。関連マニュアルへのリンクも自動で出力されます。
+
+---
+
+### 🔸 起動成功時（コマンドライン）
+<img src="images/setup_success.png" width="680">
+
+> `streamlit run app/main.py` 実行で簡単に起動。http://localhost:8501 にアクセスすればすぐに動作確認できます。
+
+---
+
+### 🔸 フォルダ構成（再現しやすさ重視）
+<img src="images/folder_structure.png" width="400">
+
+> `app/`, `data/`, `faiss_index/` など、役割ごとに整理された構造でメンテナンス性にも配慮しています。
+
+---
+
 ## 🛠 使用技術スタック
 
 | 技術         | 用途                     |
