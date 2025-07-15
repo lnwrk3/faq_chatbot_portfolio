@@ -1,7 +1,6 @@
 # 📚 社内FAQチャットボット（LangChain × OpenAI API × FAISS × Streamlit）
 
 このプロジェクトは、社内のよくある質問（FAQ）を自然言語で問い合わせできるチャットボットを構築したものです。  
-実務でも活用可能な構成で、生成AI技術の応用例としてポートフォリオに最適です。
 
 ---
 
@@ -41,6 +40,13 @@
 <img src="images/folder_structure.png" width="400">
 
 > `app/`, `data/`, `faiss_index/` など、役割ごとに整理された構造でメンテナンス性にも配慮しています。
+
+---
+
+## 🎥 デモ動画
+
+以下のリンクから、チャットボットの起動〜応答の様子をご覧いただけます👇  
+[▶️ 動画を見る（YouTube 限定公開）](https://youtu.be/6P1PRMUrgtA)
 
 ---
 
